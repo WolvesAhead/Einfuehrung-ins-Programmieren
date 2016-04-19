@@ -1,8 +1,10 @@
 === Feedback Alpers, 2016-04-19 ===
 
-Bislang enthält Ihr Repository weder das geforderte Verzeichnis für die Dokumentation, noch die entsprechend benannte Datei, aber aus irgend einem Grund haben Sie schon die zweite Aufgabe angefangen. Das ist leider nicht in Ordnung. Sie haben dagegen eine Datei Dokumentation.md erstellt, in der Sie schreiben, dass Sie keine Idee haben.
+(Korrektur: Bislang enthält Ihr Repository weder das geforderte Verzeichnis für die Projektbeschreibung angelegt. Pullen Sie einmal Ihr eigenes Repository und sehen Sie sich an, warum ich momentan die Beschreibung nicht sehen kann. Das hängt u.a. mit der Datei Dokumentation.md zusammen, in der Sie schreiben, dass Sie keine Idee haben.
 
-Formulieren Sie bitte für das folgende Brettspiel eine Projektbeschreibung wie in Kap. 5 beschrieben und speichern Sie sie in dem dort genannten Verzeichnis und unter genau dem Namen der dort vorgegeben ist. Verwenden Sie als Vorlage für Ihre Projektbeschreibung das folgende Brettspiel: Die Speicherstadt http://www.brettspiele-report.de/die-speicherstadt/ 
+Wichtig: Fangen Sie keine Aufgaben an, von denen Sie über andere Studierenden gehört haben: Da Ihre Vorgabe die Aufgabe 1 war, ist Ihre Arbeit an der Datei strukt.html leider nicht gut.
+
+Es ist aber kein Problem, dass Sie noch keine Idee haben. Formulieren Sie deshalb bitte für das folgende Brettspiel eine Projektbeschreibung wie in Kap. 5 beschrieben und speichern Sie sie in dem dort genannten Verzeichnis und unter genau dem Namen der dort vorgegeben ist. Verwenden Sie als Vorlage für Ihre Projektbeschreibung das folgende Brettspiel: Die Speicherstadt http://www.brettspiele-report.de/die-speicherstadt/ 
 
 === Zweiter Aufgabenblock (identisch für alle Studierenden) ===
 
